@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[beancurious]]></title>
         <description><![CDATA[beancurious]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beancurious/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 08:01:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 08:01:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beancurious/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Testing Acme</p>]]></description>
+            <link>https://thegrid.ai/beancurious/283d8b4a-9b76-46b5-9869-1d5c4b445bf5/index.html</link>
+            <guid isPermaLink="false">283d8b4a-9b76-46b5-9869-1d5c4b445bf5</guid>
+            <pubDate>Thu, 31 Mar 2016 08:01:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Steve Acme</p>]]></description>
-            <link>undefinedsteve-acme/index.html</link>
+            <link>https://thegrid.ai/beancurious/steve-acme/index.html</link>
             <guid isPermaLink="false">c3e00326-6e5d-49d7-8097-711fd55c26f4</guid>
             <pubDate>Thu, 31 Mar 2016 08:01:20 GMT</pubDate>
         </item>
