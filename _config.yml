@@ -1,0 +1,28 @@
+name: beancurious
+favicon: null
+layout_spectrum: 0.8323182181920856
+typography_spectrum: 0.6667348977643996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.42115455446764827
+  lightness: 0.3841150749940425
+  saturation: 0.6101019058842212
+  rhythmicContrast: 0.06736849411390722
+purpose: []
